@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Antoine Porée</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antoineporee" alt="antoineporee" /></a> </p>
-
 - 🌱 I’m currently learning **Angular 16 and more of front end things**
 
 - 📄 Know about my experiences **on my linkedin !**
