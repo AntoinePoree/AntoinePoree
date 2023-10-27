@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Antoine Porée</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
-- 🌱 I’m currently learning **Angular 16 and more of front end things**
+- 🌱 I’m currently learning **Angular 17 and more of front end things**
 
 - 📄 Know about my experiences **on my linkedin !**
 
@@ -18,6 +18,6 @@
 <h3 align="left">Social:</h3>
 <p align="left">
 <a href="https://twitter.com/_antoniojs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_antoniojs" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/antoine porée" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antoine porée" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/antoine-porée" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antoine porée" height="30" width="40" /></a>
 </p>
 
